@@ -1,0 +1,1 @@
+<div class='card'><h2>Doctors Module</h2><p>Controller + View folder ready. Add forms similar to Patients.</p></div>
