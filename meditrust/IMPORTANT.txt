@@ -1,0 +1,13 @@
+IMPORTANT (READ FIRST)
+1) Delete or rename any old folder:
+   C:\xampp\htdocs\meditrust
+   to
+   C:\xampp\htdocs\meditrust_old
+
+2) Extract this zip so you get:
+   C:\xampp\htdocs\meditrust\public\index.php
+
+3) Run:
+   http://localhost/meditrust/public/
+
+This project DOES NOT use Router.php. If you still see Router.php errors, you are running old files.
